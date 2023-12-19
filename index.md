@@ -1,4 +1,4 @@
-## Selected projects in machine learning, inferential statistics and visualization
+## Selected projects on machine learning, inferential statistics and visualization
 
 ---
 
