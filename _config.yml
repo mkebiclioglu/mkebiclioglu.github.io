@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Certified in Salesforce, Azure and Databricks.
   <br><br>
-  <a href="https://www.linkedin.com/in/mkebiclioglu/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/mkebiclioglu/">View My LinkedIn Profile</a>
+  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
